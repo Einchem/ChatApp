@@ -1,0 +1,16 @@
+.home-bg{
+    background-image: url(http://cdn.shopify.com/s/files/1/0426/9209/articles/envia-y-recibe-mensajes-de-chat-dentro-de-hangouts-meet_1200x1200.jpg?v=1613404781);
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    
+}
+.btn-icon{
+    height: 25px;
+    width: 25px;
+    margin-left: 10px;
+    display: inline-block;
+
+}

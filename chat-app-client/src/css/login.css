@@ -1,0 +1,17 @@
+.login-bg{
+background-image: url(https://as2.ftcdn.net/v2/jpg/02/79/42/39/1000_F_279423926_9EcUxTJ6HWXHLVEUmfzYODBjFYdNpUzp.jpg);
+height: 92vh;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+overflow-x: hidden;
+}
+.form-style{
+    /* d-flex align-items-center justify-content-center flex-direction-column
+    display: flex; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}

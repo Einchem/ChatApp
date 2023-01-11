@@ -1,0 +1,33 @@
+.signup-bg{
+    background-image: url(https://seodigitalgroup.com/wp-content/uploads/2020/12/livechat-software.jpg);
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    }
+    .signup-pic-container{
+        width: 100px;
+        height: 100px;
+        margin: 0 auto;
+        position: relative;
+    }
+    .signup-profile-pic{
+        width: 100px;
+        border-radius: 50%;
+        border: 2px solid gray;
+        object-fit: cover;
+        height: 100px;
+    }
+    .image-upload-pic{
+        position: absolute;
+        bottom: 0px;
+        height: 20px;
+        width: 20px;
+        right: 10px;
+        color: rgb(18, 161, 18);
+        cursor: pointer;
+        z-index: 99;
+        background: white;
+        
+    }
